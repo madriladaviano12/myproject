@@ -13,6 +13,8 @@ To get started, install the necessary dependencies by running the following comm
 ```
 yarn
 ```
+ton./gi-ful(likto)
+sabmit,
 
 ## Hardhat Tasks
 
